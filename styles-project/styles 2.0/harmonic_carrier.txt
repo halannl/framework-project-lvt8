@@ -1,0 +1,32 @@
+Rhodes electric piano chords|ABCD
+pluck chords sidechained rhythmic|ABD
+piano stabs rhythmic chords|AB
+gated chord synth rhythmic|ABD
+string stabs cinematic|ABC
+narrow-band filtered analog string pad background only|AC
+arp patterns implying chords|BC
+gated pad rhythmic sidechained|AC
+clean guitar chops|BD
+marimba chords|D
+kalimba melodic pattern|D
+airy choir pad tucked low background only|AB
+granular texture pad evolving not static|CD
+distant reverb bloom not constant wash|CD
+pluck synth chords bright and rhythmic|ABCD
+electric piano warm chords|ABCD
+detuned saw pad wide and evolving|ABC
+FM bell texture chords|AB
+vintage tape-saturated keys|ABCD
+arpeggiated synth chord pattern|ABC
+filtered string ensemble background|BCD
+woodwind ensemble pad soft and airy|CD
+pitched vocal texture pad low in mix|AC
+sampled acoustic guitar strums looped|BD
+dulcimer-style pluck pattern|D
+harp glissando texture atmospheric|ACD
+bell tree shimmer pad|AB
+warm analog chord stabs filtered|BC
+lo-fi piano texture degraded|AC
+layered synth pad with slow attack|BCD
+mallet percussion chord hits|D
+bowed string drone harmonic|CD

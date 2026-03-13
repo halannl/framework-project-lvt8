@@ -1,0 +1,1 @@
+Read .workflows/generate-video.md and generate video assets for a new video with package A

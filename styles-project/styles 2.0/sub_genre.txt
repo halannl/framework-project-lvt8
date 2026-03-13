@@ -1,0 +1,27 @@
+[PACK_A]
+melodic house
+melodic techno-house
+uplifting house
+balearic-leaning house
+festival-warm house
+
+[PACK_B]
+progressive house
+melodic progressive
+deep progressive
+cinematic progressive
+slow-burn prog house
+
+[PACK_C]
+deep house
+melodic deep
+hypnotic deep house
+deep groove house
+afterhours deep house
+
+[PACK_D]
+organic house
+organic progressive
+organic deep
+world-percussion house
+naturalistic melodic house

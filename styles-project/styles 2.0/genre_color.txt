@@ -1,0 +1,23 @@
+[PACK_A]
+sunset melodic house
+warm melodic house
+uplifting melodic house
+emotional melodic house
+
+[PACK_B]
+chill progressive house
+sunset progressive house
+cinematic progressive house
+hypnotic progressive house
+
+[PACK_C]
+melodic deep house
+groove-focused deep house
+hypnotic deep house
+moody melodic deep house
+
+[PACK_D]
+organic melodic progressive
+organic melodic house
+organic deep melodic
+sunset organic melodic
