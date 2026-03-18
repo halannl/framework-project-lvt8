@@ -104,11 +104,10 @@ Titles should feel:
 - Long descriptive sentences
 
 ### Title Shape Distribution (target across 24)
-1. **One-word power titles** — ~3 (single evocative cinematic word)
+1. **One-word power titles** — ~4 (single evocative cinematic word)
 2. **Two-word power titles** — ~6 (clean, punchy aesthetic pairings: noun+noun, adj+noun, verb+noun)
 3. **Poetic cinematic phrases** — ~8 (3–5 words, filmic, atmospheric, soft motion implied)
-4. **Fragment / whisper titles** — ~5 (3–5 words, caption-like, thought-like; occasional ellipsis OK but rare)
-5. **Abstract / conceptual** — ~2 (may include numbers, symbols, coordinate vibes **DO NOT REPEAT SAME CONCEPT AS PREVIOUS 3 VIDEOS**)
+4. **Fragment / whisper titles** — ~6 (3–5 words, caption-like, thought-like; occasional ellipsis OK but rare)
 
 ### Style Bucket Alignment
 - **Sunset Melodic House**: warm, accessible, glowing, emotional clarity

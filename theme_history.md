@@ -67,3 +67,31 @@ An endless expanse of clouds stretches below like a silent ocean, reflecting sil
 A narrow ridge of ice climbs steadily toward a pale sky, where frozen air meets the first warmth of approaching twilight in gradients of frost-blue to faint apricot. The motion is continuous and forward-driving—each step upward reveals wider views of glacial valleys below, while light shifts incrementally brighter with every rise. Everything builds in a controlled, inevitable progression, ascending through crystalline air with a sense of purpose and expanding horizon.
 
 ==========================================
+
+**Theme Title:** Peach Stillwater Float
+
+**Scenario:**
+A golden sun hovers just above a glassy lake horizon, washing the entire sky in warm peach and soft tangerine gradients that reflect perfectly in the mirror-still water below. The air feels weightless and tender—no wind, no ripple, just suspended warmth where sky and lake become one seamless glow. Everything floats in quiet euphoria, rising gently without effort, held in that radiant pause where light feels like embrace.
+
+==========================================
+
+**Theme Title:** Depths Phosphor Pulse
+
+**Scenario:**
+A deep underwater perspective where bioluminescent particles drift in slow, hypnotic patterns through midnight-blue water, each glowing speck tracing spirals of cyan and pale gold. The ocean floor below radiates a subtle warmth—scattered clusters of light pulse in quiet rhythm, breathing with the current as if the depths themselves have a heartbeat. Everything sinks and swells in gentle cycles, suspended in intimate darkness where light arrives as a whisper, not a flood.
+
+==========================================
+
+**Theme Title:** Terracotta Valley Glide
+
+**Scenario:**
+A low sun casts warm terracotta light across ancient red rock formations that rise like weathered monuments from a valley floor, each surface breathing with textures of clay and stone. The air feels earthy and open—heat radiates from the ground in subtle waves while shadows stretch long and soft, turning amber into rust as the light descends. Everything glides horizontally through the valley, suspended just above the earth with a steady, grounded weightlessness that follows the contours of the land.
+
+==========================================
+
+**Theme Title:** Dune Horizon Drive
+
+**Scenario:**
+A continuous forward glide across endless sand dunes that roll like frozen ocean waves toward a distant horizon, where the last sunlight spreads from burnt sienna into soft lilac across a wide-open sky. Each dune crest passes beneath in steady rhythm—shadows deepen from rose to charcoal while the sky above evolves through layers of warm gradient, building momentum without acceleration. Everything moves as one continuous arc, propelled forward by light that shifts incrementally brighter at the horizon line, pulling you deeper into the expanse with unwavering drive.
+
+==========================================
